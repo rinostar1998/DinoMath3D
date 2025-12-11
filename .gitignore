@@ -1,0 +1,14 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+
+*.user
+SECURITY.md
+README.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+*.exe
+*.dll
