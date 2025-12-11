@@ -1,0 +1,19 @@
+﻿  Math.cpp
+C:\dev\DinoMath3D\DinoMath3D\Quaternion.h(33,54): warning C4297: 'DinoMath3D::quat::operator /': function assumed not to throw an exception but does
+  (compiling source file 'Math.cpp')
+      C:\dev\DinoMath3D\DinoMath3D\Quaternion.h(33,54):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+  Matrix.cpp
+  Quaternion.cpp
+C:\dev\DinoMath3D\DinoMath3D\Quaternion.h(33,54): warning C4297: 'DinoMath3D::quat::operator /': function assumed not to throw an exception but does
+  (compiling source file 'Quaternion.cpp')
+      C:\dev\DinoMath3D\DinoMath3D\Quaternion.h(33,54):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+  SimdFunctions.cpp
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Generating Code...
+  DinoMath3D.vcxproj -> C:\dev\DinoMath3D\x64\Debug\DinoMath3D.lib

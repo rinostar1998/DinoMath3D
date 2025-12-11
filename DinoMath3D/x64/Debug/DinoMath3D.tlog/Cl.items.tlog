@@ -1,0 +1,7 @@
+C:\dev\DinoMath3D\DinoMath3D\Math.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Math.obj
+C:\dev\DinoMath3D\DinoMath3D\Matrix.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Matrix.obj
+C:\dev\DinoMath3D\DinoMath3D\Quaternion.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Quaternion.obj
+C:\dev\DinoMath3D\DinoMath3D\SimdFunctions.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\SimdFunctions.obj
+C:\dev\DinoMath3D\DinoMath3D\Vector2.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Vector2.obj
+C:\dev\DinoMath3D\DinoMath3D\Vector3.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Vector3.obj
+C:\dev\DinoMath3D\DinoMath3D\Vector4.cpp;C:\dev\DinoMath3D\DinoMath3D\x64\Debug\Vector4.obj
